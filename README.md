@@ -77,6 +77,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
+      <td> An Android app that teaches pronunciation for English words.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
       <td> CyberCop - A legal case retrieveal system with JavaFx UI.</td>
     </tr>
     <tr>
