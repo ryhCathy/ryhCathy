@@ -19,6 +19,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
+      <td> Facial recognition and verification via CNN on VGGFace2.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
       <td> Attention-based End-to-End Speech-to-Text Deep Neural Network.</td>
     </tr>
     <tr>
