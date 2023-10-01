@@ -18,6 +18,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/ryhCathy/minibert">ryhCathy/minibert</a></td>
+      <td> A minimalist version of BERT.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
       <td> Facial recognition and verification via CNN on VGGFace2.</td>
     </tr>
