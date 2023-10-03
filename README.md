@@ -84,7 +84,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
+      <td><a href="https://github.com/pawankumar-bayer/bayer_capstone">pawankumar-bayer/bayer_capstone</a></td>
       <td> A cross-platform mobile application myRadiology360.</td>
     </tr>
     <tr>
