@@ -7,6 +7,9 @@
 
 - 💬 You can find more details about me on my homepage: [https://ryhCathy.github.io/](https://ryhCathy.github.io/)
 
+- 🌍 If you have riveting projects or challenges that can make a difference, I'd love to collaborate. Let's innovate together!
+
+
 ### AI/ML/Data Modeling
 
 <table>
