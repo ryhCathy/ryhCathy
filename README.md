@@ -7,7 +7,7 @@
 
 - 🌍 If you have riveting projects or challenges that can make a difference, I'd love to collaborate. Let's innovate together!
 
-- 💬 Dive deeper into my journey and projects: https://ryhCathy.github.io/ [https://ryhCathy.github.io/](https://ryhCathy.github.io/)
+- 💬 Dive deeper into my journey and projects: [https://ryhCathy.github.io/](https://ryhCathy.github.io/)
 
 
 ### AI/ML/Data Modeling
