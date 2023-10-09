@@ -88,7 +88,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/pawankumar-bayer/bayer_capstone">bayer_capstone</a></td>
-      <td> A cross-platform mobile application myRadiology360.</td>
+      <td> A cross-platform mobile application for Bayer Radiology to help with early detection, disease prevention, and continued training.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
