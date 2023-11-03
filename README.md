@@ -20,6 +20,10 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/KathyPJ/scientific-entity-recognition">SNER</a></td>
+      <td> An end-to-end scientific NER system on NLP paper domain.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ryhCathy/minibert">minibert</a></td>
       <td> A minimalist version of BERT.</td>
