@@ -99,7 +99,7 @@
       <td> An Android app that teaches pronunciation for English words.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
+      <td><a href="https://github.com/ryhCathy/CyberCop">ryhCathy</a></td>
       <td> CyberCop - A legal case retrieval application with JavaFx UI.</td>
     </tr>
     <tr>
