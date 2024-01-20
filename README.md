@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
-      <td> CyberCop - A legal case retrieveal system with JavaFx UI.</td>
+      <td> CyberCop - A legal case retrieval application with JavaFx UI.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ryhCathy">ryhCathy</a></td>
